@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This project was created to help me learn how to contribute to other projects and your to maintain a project that needs contribution.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Automate some interactions as if I had other contributors.
 
 ## Getting started
 
